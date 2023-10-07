@@ -5,7 +5,7 @@ const router = express.Router();
 const DATA_SIZE = require("../config");
 const pokemonAllTypes = require("../getPokemonTypes");
 const { faker } = require("@faker-js/faker");
-const BASE_URL = "https://pokemon-api2.onrender.com";
+const BASE_URL = "https://coderdex-0gd8.onrender.com";
 // const BASE_URL = "http://localhost:9000";
 
 /* GET pokemons listing. */
